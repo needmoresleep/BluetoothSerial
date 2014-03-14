@@ -12,6 +12,6 @@
     <preference name="fullscreen" value="false" />
     <preference name="webviewbounce" value="true" />
 <plugins>
-    <plugin name="BluetoothSerial" value="com.megster.cordova.BluetoothSerial"/>
+    <plugin name="bluetoothSerial" value="com.megster.cordova.bluetoothserial"/>
 </plugins>
 </widget>
