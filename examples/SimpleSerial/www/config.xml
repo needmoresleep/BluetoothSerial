@@ -2,7 +2,7 @@
 <widget id="net.tigoe.simpleserial" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>SimpleSerial</name>
     <description>
-        Simple serial demo for Bluetooth serial Cordova plugin.
+        Updated with Plugin Section - Simple serial demo for Bluetooth serial Cordova plugin.
     </description>
     <author>
         Tom Igoe
@@ -11,4 +11,7 @@
     <access origin="*" />
     <preference name="fullscreen" value="false" />
     <preference name="webviewbounce" value="true" />
+<plugins>
+    <plugin name="BluetoothSerial" value="com.megster.cordova.BluetoothSerial"/>
+</plugins>
 </widget>
