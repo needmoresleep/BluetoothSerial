@@ -11,5 +11,5 @@
     <access origin="*" />
     <preference name="fullscreen" value="false" />
     <preference name="webviewbounce" value="true" />
-    <gap:plugin name="com.megster.cordova.bluetoothserial"/>
+    <gap:plugin name="com.megster.cordova.bluetoothserial" />
 </widget>
